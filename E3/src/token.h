@@ -2,7 +2,9 @@
 
 typedef enum {
         ID = 256, 
-	NUM, 
+	NUM,
+	ARRAY, // 258
+	BOOLEAN, // 259
         KEY,
         SYM,  
         SYMC, 
